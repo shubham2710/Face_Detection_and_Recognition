@@ -2,7 +2,7 @@
 APPLICATION which can detect,store and recognize(predict person) using openCV and knn
 
 
-![](20200526_214414.gif)
+![](dataTest/abd and virat.gif)
 
 ## Working
 App contain 3 Feature:
